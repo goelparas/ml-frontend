@@ -12,10 +12,6 @@ npm start
 ### Production
 Production link: [FingerSpell](https://fingerspell.vercel.app)
 
-## Technologies
-[![My Skills](https://skills.thijs.gg/icons?i=react,tensorflow,javascript,html,css&theme=dark)]()
-
-
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
