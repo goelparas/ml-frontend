@@ -16,10 +16,6 @@ Production link: [FingerSpell](https://fingerspell.vercel.app)
 [![My Skills](https://skills.thijs.gg/icons?i=react,tensorflow,javascript,html,css&theme=dark)]()
 
 
-## Screenshot
-<img width="1072" alt="Screenshot 2023-07-21 212119" src="https://github.com/armanalam03/FingerSpell/assets/39340406/20d01b4a-7932-4fb4-99ae-f641fcfe992b">
-
-
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
